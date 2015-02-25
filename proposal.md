@@ -144,6 +144,24 @@ If no preceding modifier is used, it defaults to **import**.
 
 Need to check that a library does not depend on itself.
 
+### A working implementation
+
+TBD
+
+### Tests
+
+TBD
+
+## Patents rights
+
+TC52, the Ecma technical committee working on evolving the open [Dart standard][], operates under a royalty-free patent policy, [RFPP][] (PDF). This means if the proposal graduates to being sent to TC52, you will have to sign the Ecma TC52 [external contributer form]() and submit it to Ecma.
+
+[tex]: http://www.latex-project.org/
+[language spec]: https://www.dartlang.org/docs/spec/
+[dart standard]: http://www.ecma-international.org/publications/standards/Ecma-408.htm
+[rfpp]: http://www.ecma-international.org/memento/TC52%20policy/Ecma%20Experimental%20TC52%20Royalty-Free%20Patent%20Policy.pdf
+[external contributer form]: http://www.ecma-international.org/memento/TC52%20policy/Contribution%20form%20to%20TC52%20Royalty%20Free%20Task%20Group%20as%20a%20non-member.pdf
+
 
 
 
